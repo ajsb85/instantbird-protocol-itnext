@@ -12,7 +12,7 @@ Assists to setup a chat account for IT Next Consultant, LLC.
 * Users can automatically chat with other Google Apps and Gmail users (Google network)
 
 
-## Using the prpl-itnext with someone who is using Google Hangout:
+#### Using the prpl-itnext with someone who is using Google Hangout:
 
 * Send messages to you
 * Receive messages from you
