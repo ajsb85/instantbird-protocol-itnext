@@ -1,0 +1,12 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+skin    prpl-itnext     classic/1.0 chrome/skin/
+locale	prpl-itnext	en-US		chrome/locale/en-US/
+
+component {cbcd0290-a6fb-11e4-bcd8-0800200c9a66} components/itnext.js
+contract @mozilla.org/chat/itnext;1 {cbcd0290-a6fb-11e4-bcd8-0800200c9a66}
+category im-protocol-plugin prpl-itnext @mozilla.org/chat/itnext;1
+
+resource prpl-itnext modules/

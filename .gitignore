@@ -1,3 +1,9 @@
+# Add-ons
+*.xpi
+*.zip
+*.jar
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
