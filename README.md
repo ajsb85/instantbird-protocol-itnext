@@ -1,9 +1,10 @@
 ##Protocol for the Chat Account of IT Next Consultant, LLC
 
 ###Download
-https://addons.mozilla.org/addon/itnext/
+https://addons.mozilla.org/addon/itnext/ <br>
 https://addons.instantbird.org/addon/376/
 
+## Resources for the new version
 
 ##Admin SDK
 
