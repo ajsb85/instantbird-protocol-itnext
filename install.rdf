@@ -8,8 +8,8 @@
 		<em:unpack>true</em:unpack>
 		<em:name>IT Next Consultant</em:name>
 		<em:version>1.0</em:version>
-    <em:type>2</em:type>
-    <em:multiprocessCompatible>true</em:multiprocessCompatible>
+		<em:type>2</em:type>
+		<em:multiprocessCompatible>true</em:multiprocessCompatible>
 		<em:description></em:description>
 		<em:creator>Alexander Salas</em:creator>
 		<em:translator>Fatma Youssef</em:translator>
@@ -22,7 +22,7 @@
 				<em:name>IT Next Consultant</em:name>
 				<em:creator>Alexander Salas</em:creator>
 				<em:translator>Fatma Youssef</em:translator>
-				<em:description></em:description>
+				<em:description>Assists to setup a chat account for IT Next Consultant, LLC</em:description>
 			</Description>
 		</em:localized>
 		<em:localized>
@@ -31,10 +31,10 @@
 				<em:name>IT Next Consultant</em:name>
 				<em:creator>Alexander Salas</em:creator>
 				<em:translator>Fatma Youssef</em:translator>
-				<em:description></em:description>
+				<em:description>Asistente de configuración de una cuenta de Chat para IT Next Consultant, LLC</em:description>
 			</Description>
 		</em:localized>
-    <!-- Instantbird -->
+		<!-- Instantbird -->
 		<em:targetApplication>
 			<Description>
 				<em:id>{33cb9019-c295-46dd-be21-8c4936574bee}</em:id>
@@ -42,13 +42,13 @@
 				<em:maxVersion>1.6a1pre</em:maxVersion>
 			</Description>
 		</em:targetApplication>
-    <!-- Thunderbird -->
-    <em:targetApplication>
-      <Description>
-        <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
-        <em:minVersion>15.0</em:minVersion>
-        <em:maxVersion>38.0a1</em:maxVersion>
-      </Description>
-    </em:targetApplication>
+		<!-- Thunderbird -->
+		<em:targetApplication>
+		  <Description>
+		    <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
+		    <em:minVersion>15.0</em:minVersion>
+		    <em:maxVersion>38.0a1</em:maxVersion>
+		  </Description>
+		</em:targetApplication>
 	</Description>
 </RDF>
